@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Fawad Ahmad</h1>
 <h3 align="center">A Passionate Frontend Developer From Pakistan(Lahore)</h3>
-<img src="https://i.ibb.co/nLYwFLc/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f.gif" width{100%} alt=""/>
+<img src="https://i.ibb.co/nLYwFLc/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f.gif" width="100%" alt=""/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawad7998" alt="fawad7998" /></a> </p>
 
