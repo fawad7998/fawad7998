@@ -27,4 +27,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawad7998&show_icons=true&locale=en&layout=compact" width="100%" alt="fawad7998" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawad7998&show_icons=true&locale=en&layout=compact" width="50%" alt="fawad7998" /></p>
