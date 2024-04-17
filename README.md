@@ -28,7 +28,7 @@
 <a href="https://instagram.com/fawad5791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fawad5791" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Github Stats:</h3>
  
 
  <p>
@@ -40,6 +40,7 @@
       </p>
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-101&&theme=tokyonight" alt="gaurav-101" /></p>
+<h3 align="left">Languages and Tools:</h3>
 <p>
       
 <img
