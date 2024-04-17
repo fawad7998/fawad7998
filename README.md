@@ -36,11 +36,11 @@
           align="right"
           src="https://github-readme-stats.vercel.app/api?username=fawad7998&show_icons=true&locale=en&theme=tokyonight"
           alt="fawad7998"
-          width="40%"
+          width="50%"
         />
       </p>
     
-<p><img align="center"  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-101&&theme=tokyonight" alt="gaurav-101" /></p>
+<p><img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-101&&theme=tokyonight" alt="gaurav-101" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p>
       
