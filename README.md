@@ -44,10 +44,9 @@
           align="right"
           src="https://github-readme-stats.vercel.app/api?username=fawad7998&show_icons=true&locale=en&theme=tokyonight"
           alt="fawad7998"
-                  
-  />
-</p>
-
+          width="60%"
+        />
+      </p>
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-101&&theme=tokyonight" alt="gaurav-101" /></p>
 
