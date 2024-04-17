@@ -39,7 +39,7 @@
         />
       </p>
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-101&&theme=tokyonight" alt="gaurav-101" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-101&&theme=tokyonight" alt="gaurav-101" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p>
       
