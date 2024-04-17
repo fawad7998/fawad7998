@@ -44,7 +44,7 @@
           align="right"
           src="https://github-readme-stats.vercel.app/api?username=fawad7998&show_icons=true&locale=en&theme=tokyonight"
           alt="fawad7998"
-          width="60%"
+          
         />
       </p>
     
