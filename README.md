@@ -270,7 +270,7 @@
         />
       </p>
     
-<p><img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-101&&theme=tokyonight" alt="gaurav-101" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fawad%20Ahmad&theme=tokyonight" alt="GitHub Streak" /></a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p>
       
