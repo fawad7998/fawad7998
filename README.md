@@ -241,7 +241,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [Easy-Stay](https://github.com/fawad7998/EasyStay-Client)
+- 🔭 I’m currently working on (https://github.com/fawad7998/Personal-Portfolio)
 
 - 🌱 I’m currently learning **Next.JS**
 
