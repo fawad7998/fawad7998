@@ -30,7 +30,6 @@
       height="40"
     />
   </a>
- 
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
@@ -97,7 +96,6 @@
       height="40"
     />
   </a>
-  
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -127,7 +125,6 @@
       style="filter: brightness(2.0);"
     />
   </a>
-  
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -153,7 +150,6 @@
       height="40"
     />
   </a>
-  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
