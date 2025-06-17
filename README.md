@@ -178,12 +178,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawad7998" alt="fawad7998" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/fawad7998/Personal-Portfolio)
+- 🔭 I’m currently working on [Movix](https://github.com/fawad7998/Personal-Portfolio)
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [github.com/fawad7998](github.com/fawad7998)
 
