@@ -5,8 +5,7 @@
 <h3 align="center">I'm Currently Working at Desol Int</h3>
 
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 12px; padding: 16px 0;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px; padding: 16px 0; overflow-x: auto; white-space: nowrap;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
@@ -65,11 +64,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
 </div>
-
-
-
-
-
  
 
 
