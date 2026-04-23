@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Mern-Stack Developer From Pakistan</h3>
 <h3 align="center">I'm Currently Working at Desol Int</h3>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 12px; padding: 16px 0; flex-wrap: nowrap; overflow-x: auto;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 12px; padding: 16px 0; flex-wrap: nowrap; overflow-x: auto;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
