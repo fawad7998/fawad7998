@@ -4,8 +4,7 @@
 <h3 align="center">A Passionate Mern-Stack Developer From Pakistan</h3>
 <h3 align="center">I'm Currently Working at Desol Int</h3>
 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; padding: 16px 0; overflow-x: auto; white-space: nowrap;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 12px; padding: 16px 0; flex-wrap: nowrap; overflow-x: auto;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
@@ -64,7 +63,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
 </div>
- 
+
+
+
 
 
 <img src="https://i.ibb.co/nLYwFLc/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f.gif" width="100%" alt="Autoplaying GIF" loop autoplay />
